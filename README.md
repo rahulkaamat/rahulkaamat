@@ -1,20 +1,40 @@
- Hi, I'm Rahul Kamat 👋
+# Hi, I'm Rahul Kamat 👋
+
+## About Me
 
 🎓 BCA Student at Purbanchal University
 
-💻 Learning:
-- C Programming
-- Programming Fundamentals
-- Database Fundamentals
+💻 Learning Programming & Database Concepts
 
-🎬 Skills:
-- Video Editing
+🎬 Video Editor and Content Creator
+
+📈 Experienced in Business Operations and Customer Service
+
+🌱 Currently improving my skills in C Programming, SQL, Git, and Software Development
+
+---
+
+## Skills
+
 - Microsoft Office
-- Problem Solving
+- C Programming (Basic)
+- Database Fundamentals
+- Video Editing
+- Content Creation
+- Customer Service
 
-🚀 Goals:
-- Become a Software Developer
-- Build practical projects
-- Contribute to open-source projects
+---
 
-📍 Nepal
+## Projects
+
+### Inventory Management System
+Academic project developed using C Programming.
+
+More projects coming soon.
+
+---
+
+## Connect With Me
+
+LinkedIn:
+linkedin.com/in/rahulkaamat
